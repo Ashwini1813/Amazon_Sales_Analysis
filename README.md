@@ -22,7 +22,8 @@ The project covers data cleaning, SQLite database creation, SQL-based analysis, 
 ---
 
 ## 📊 Dashboard Preview
-![Amazon Sales Dashboard] <img width="1196" height="880" alt="amazon_sales_dashboard" src="https://github.com/user-attachments/assets/a7589484-5743-4dda-9a21-f4785fc438f5" />
+![Amazon Sales Dashboard]<img width="1195" height="592" alt="Amazon_Sales_Dashboard" src="https://github.com/user-attachments/assets/4150eae5-7214-4c15-8ddb-486696caf827" />
+
 
 ---
 
